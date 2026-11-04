@@ -19,6 +19,7 @@ I enjoy learning new technologies and building practical software projects. I am
 **Programming Languages**
 - Python
 - C
+- c++
 - SQL
 
 **Technologies & Tools**
